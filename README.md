@@ -1,4 +1,4 @@
-﻿# My Project
+﻿# My ML Course Project
 ## Code 
 - has the core python notebooks. 
 - File.ipynb --> Saved data
