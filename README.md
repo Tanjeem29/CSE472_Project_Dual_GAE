@@ -1,6 +1,6 @@
 ﻿# My ML Course Project
 ## Code 
-- has the core python notebooks. 
+- has the core python notebooks. Partial code.  
 - File.ipynb --> Saved data
     - Final_preprocess_seperated_dataset.ipynb 	-> 	train_feature
     - Final_train_seperated_dataset 			      -> 	best_model.pt + test_features 
